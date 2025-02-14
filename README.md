@@ -18,10 +18,7 @@ I’m a Full Stack Developer with 4 years of experience crafting dynamic, user-f
 
 ![visitors](https://komarev.com/ghpvc/?username=samad-azeez)
 
-<details>
   
 #### Github Stats 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=samad-azeez&count_private=true&theme=dark)
- 
-</details>
+![Github stats](https://github-readme-stats.vercel.app/api?username=samad-azeez&count_private=true&theme=dark) 
