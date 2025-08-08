@@ -2,7 +2,7 @@
 
 💻 **Full-Stack Developer** | 🚀 **Problem Solver** | 📱 **Mobile & Web App Builder**  
 
-I **design and build digital products** that don’t just work — they *wow*.  
+I **design and build digital products** that don’t just work — they _**wow !!**_.  
 With **4+ years** of experience, I’ve taken ideas from scribbles on paper to fully-deployed, scalable solutions.  
 My focus? **Clean, maintainable code**, intuitive user experiences, and performance that makes apps feel effortless.  
 
