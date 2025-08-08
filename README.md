@@ -1,24 +1,63 @@
+## Hey there, I'm Samad 👋
 
-## Hello, I'm Samad  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="hi">
+💻 **Full Stack Developer** | 🚀 **Problem Solver** | 🎯 **Product Builder**  
 
-I’m a Full Stack Developer with 4 years of experience crafting dynamic, user-focused solutions from concept to deployment
+With **4+ years** of experience, I design and build **scalable, user-focused applications** — turning ideas into reality from concept to deployment.  
+I’m passionate about crafting clean, performant code and delivering smooth, intuitive user experiences.  
 
+---
 
+### 🚀 About Me
+- 🔭 Currently working on **full-stack applications** with **Next.js, NestJS & PostgreSQL**
+- 🌱 Learning more about **DevOps** and **scalable architectures**
+- 🛠 Experienced with **frontend, backend, and mobile app development**
+- 💬 Ask me about **MERN Stack, Next.js, APIs, Cloud Integration**
+- ⚡ Fun fact: I can turn coffee ☕ into production-ready code
 
-#### Technologies and Stack ⚡️
+---
 
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🛠 Tech Stack & Tools
 
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=) ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) [![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=express&logoColor=FFFFFF&label=)](https://expressjs.com/) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=axios&logoColor=FFFFFF&label=)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=Prisma&logoColor=FFFFFF&label=) ![Drizzle](https://img.shields.io/badge/Drizzle-FFD43B?style=for-the-badge&logo=drizzle&logoColor=black) ![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=3FCF8E&logo=Supabase&logoColor=FFFFFF&label=) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
+**Databases & ORMs**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) 
+![Drizzle](https://img.shields.io/badge/Drizzle-FFD43B?style=for-the-badge&logo=drizzle&logoColor=black) 
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-#### Profile Visits 
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![visitors](https://komarev.com/ghpvc/?username=thesamadazeez)
+---
 
-  
-#### Github Stats 
+### 📊 GitHub Stats & Activity
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=thesamadazeez&count_private=true&theme=dark) 
+![Samad's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesamadazeez&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thesamadazeez&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect With Me  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=thesamadazeez&color=blue&style=flat-square)
