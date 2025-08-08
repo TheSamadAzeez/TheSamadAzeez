@@ -1,18 +1,19 @@
-## Hey there, I'm Samad 👋
+## Hey there, I’m Samad 👋
 
-💻 **Full Stack Developer** | 🚀 **Problem Solver** | 🎯 **Product Builder**  
+💻 **Full-Stack Developer** | 🚀 **Problem Solver** | 📱 **Mobile & Web App Builder**  
 
-With **4+ years** of experience, I design and build **scalable, user-focused applications** — turning ideas into reality from concept to deployment.  
-I’m passionate about crafting clean, performant code and delivering smooth, intuitive user experiences.  
+I **design and build digital products** that don’t just work — they *wow*.  
+With **4+ years** of experience, I’ve taken ideas from scribbles on paper to fully-deployed, scalable solutions.  
+My focus? **Clean, maintainable code**, intuitive user experiences, and performance that makes apps feel effortless.  
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **full-stack applications** with **Next.js, NestJS & PostgreSQL**
-- 🌱 Learning more about **DevOps** and **scalable architectures**
-- 🛠 Experienced with **frontend, backend, and mobile app development**
-- 💬 Ask me about **MERN Stack, Next.js, APIs, Cloud Integration**
-- ⚡ Fun fact: I can turn coffee ☕ into production-ready code
+- 🔭 Currently building **full-stack applications** with **Next.js, NestJS & PostgreSQL**
+- 🌱 Leveling up in **DevOps** & **scalable architectures**
+- 🛠 Skilled in **frontend, backend, and mobile** (iOS & Android with React Native)
+- 💬 Talk to me about **MERN Stack, Next.js, APIs, or Cloud Integrations**
+- ⚡ Fun fact: I can turn **coffee ☕ into production-ready code** — faster if it’s iced 
 
 ---
 
