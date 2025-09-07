@@ -1,6 +1,6 @@
 ## Hey there, I’m Samad 👋
 
-💻 **Full-Stack Developer** | 🚀 **Problem Solver** | 📱 **Mobile & Web App Builder**  
+📱 **Software Engineer** | 💻 **Full-Stack Developer** | 🚀 **Problem Solver** 
 
 I **design and build digital products** that don’t just work — they _**impress**_ ✨.  
 With **4+ years** of experience, I’ve taken ideas from scribbles on paper to fully-deployed, scalable solutions.  
