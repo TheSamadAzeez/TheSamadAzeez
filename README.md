@@ -2,7 +2,7 @@
 
 ### Full Stack Engineer | TypeScript Specialist | Web & Mobile
 
-I am a Software Engineer with 4+ years of experience specializing in the **TypeScript and React ecosystem**. I function as a "Universal" developer, architecting and shipping high-performance applications across **Web (Next.js)**, **Mobile (React Native/Expo)**, and **Backend (Node.js)**.
+I am a Software Engineer with 4+ years of experience specializing in the **TypeScript and React ecosystem**. I function as a Fullstack developer, architecting and shipping high-performance applications across **Web (Next.js)**, **Mobile (React Native/Expo)**, and **Backend (Node.js)**.
 
 My focus is on delivering scalable, production-ready systems with clean, maintainable code and modular design patterns.
 
